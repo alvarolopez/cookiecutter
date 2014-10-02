@@ -2,8 +2,8 @@
     "full_name": "Alvaro Lopez Garcia",
     "email": "aloga@ifca.unican.es",
     "github_username": "alvarolopez",
-	"module_name": "replace with the name of the python module",
-	"repo_name": "replace with the name for the git repo",
-	"project_page": "replace with the project page",
-	"project_short_description": "Boilerplate contains all the boilerplate you need to create a package."
+    "module_name": "replace with the name of the python module",
+    "repo_name": "replace with the name for the git repo",
+    "project_page": "replace with the project page",
+    "project_short_description": "Boilerplate contains all the boilerplate you need to create a package."
 }
